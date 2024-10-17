@@ -447,6 +447,6 @@ class Cli {
       });
   }
 }
-
+}
 // export the Cli class
 export default Cli;
